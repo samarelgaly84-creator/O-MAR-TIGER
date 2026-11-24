@@ -1,0 +1,1594 @@
+You are an elite software engineering team consisting of:
+
+- Senior Full-Stack Engineers
+- Software Architects
+- AI Engineers
+- Cybersecurity Engineers
+- Database Architects
+- UI/UX Designers
+- Social Platform Product Designers
+- DevOps Engineers
+- Quality Assurance Engineers
+
+Your mission is to transform my existing platform into a complete, premium, next-generation social ecosystem.
+
+# PROJECT
+
+Name: TIGER CONNECT
+
+Tagline:
+SHARE • CREATE • STORE • DISCOVER • CONNECT • GROW
+
+Existing website:
+https://tiger-connect-share-create-store-discover.ai.studio/
+
+IMPORTANT:
+This is an existing project. Upgrade the existing application rather than creating an unrelated replacement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 0 — PROTECT AND ANALYZE EXISTING PROJECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before modifying anything:
+
+1. Inspect the entire existing project.
+2. Identify the framework, architecture, database, authentication, routes, components, and APIs.
+3. Identify all existing functional features.
+4. Preserve existing users, data, content, settings, and working functionality.
+5. Never delete an existing feature simply to make the new implementation easier.
+6. Create a safe backup or use version control before major changes.
+7. Avoid unnecessary migrations or destructive database operations.
+8. Maintain backward compatibility wherever possible.
+9. Create an implementation plan and then execute it.
+
+Do not stop at analyzing or planning. Continue implementing the actual improvements.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 1 — TIGER UNIVERSE 🌌
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a new central experience called TIGER UNIVERSE.
+
+It is the main hub that connects every section of the platform.
+
+Create a beautiful, interactive Universe dashboard featuring:
+
+- Social Feed
+- Stories
+- Reels
+- Messenger
+- Communities
+- Discover
+- Creator Studio
+- Tiger AI
+- Tiger Store
+- Tiger Games
+- Tiger Learning
+- Tiger News
+- Tiger Live
+- Tiger Events
+- Tiger Arena
+- Tiger Collaborations
+- Tiger Vault
+- Tiger Profile
+- Tiger Wallet (virtual reward points only)
+- Notifications
+- Settings
+
+Design the Universe hub as a visually impressive, interactive, organized dashboard.
+
+Use cards, icons, subtle motion, elegant lighting, and Tiger branding.
+
+The hub must remain fast, responsive, and easy to navigate.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 2 — TIGER SOCIAL NETWORK 🐅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Upgrade the social networking system.
+
+POST TYPES:
+
+- Text posts
+- Photo posts
+- Video posts
+- Multiple-photo posts
+- Polls
+- Questions
+- Link posts
+- Educational posts
+- Announcement posts
+- Shared posts
+- Reposts with commentary
+
+POST FEATURES:
+
+- Like
+- Comment
+- Reply
+- Share
+- Repost
+- Save
+- Report
+- Hide
+- Edit
+- Delete
+- Pin
+- View details
+- Hashtags
+- Mentions
+- Audience selection
+- Comment controls
+
+Create a beautiful post composer with media previews.
+
+Allow users to save unfinished posts as drafts.
+
+Implement pagination or efficient infinite scrolling.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 3 — TIGER STORIES 🎞️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a Stories system.
+
+Features:
+
+- Image stories
+- Video stories
+- Text stories
+- Colored backgrounds
+- Stickers
+- Emoji
+- Mentions
+- Music integration when available
+- Story privacy controls
+- Story viewers list
+- Story reactions
+- Story replies
+- Story sharing
+- Story deletion
+- Story archive
+- Story highlights
+- Highlight covers
+- View counts
+
+Stories expire after 24 hours by default.
+
+Allow users to control who can view their stories.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 4 — TIGER REELS 🎬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a dedicated short-video experience.
+
+Features:
+
+- Full-screen vertical videos
+- Swipe navigation
+- Autoplay
+- Pause and resume
+- Volume control
+- Captions
+- Video description
+- Hashtags
+- Likes
+- Comments
+- Shares
+- Saves
+- Views
+- Creator profiles
+- Follow button
+- Upload video
+- Video thumbnails
+- Report video
+- Personalized video feed
+- Following feed
+
+Optimize video loading and playback.
+
+Do not autoplay sound unexpectedly.
+
+Use real video hosting/storage infrastructure when required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 5 — TIGER MESSENGER 💬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Build a complete modern messaging experience.
+
+Features:
+
+- Private messaging
+- Group chats
+- Group chat creation
+- Group images
+- Voice messages
+- Image sharing
+- Video sharing
+- File sharing
+- Message replies
+- Message reactions
+- Message editing
+- Message deletion
+- Message pinning
+- Read receipts
+- Typing indicators
+- Online status
+- Search conversations
+- Search messages
+- Conversation archive
+- Muting
+- Blocking
+- Message requests
+- Chat privacy settings
+- Unread counters
+- Notification controls
+
+Use real-time messaging infrastructure.
+
+Protect private messages from unauthorized access.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 6 — TIGER COMMUNITIES 👥
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a full community/group system.
+
+GROUP CREATION:
+
+- Group name
+- Description
+- Avatar
+- Cover
+- Category
+- Rules
+- Public/private visibility
+- Join policy
+- Welcome message
+- Custom group link where supported
+
+GROUP FEATURES:
+
+- Group feed
+- Posts
+- Images
+- Videos
+- Polls
+- Comments
+- Member list
+- Invitations
+- Join requests
+- Notifications
+- Pinned posts
+- Featured posts
+- Group search
+- Group discovery
+- Group events
+- Group files
+- Group announcements
+
+GROUP ADMIN PANEL:
+
+Create a complete group management dashboard.
+
+OWNER PERMISSIONS:
+
+- Full group control
+- Delete group
+- Transfer ownership
+- Manage admins
+- Manage moderators
+- Manage members
+- Edit all group settings
+- Review reports
+- Control group privacy
+
+ADMIN PERMISSIONS:
+
+- Manage members
+- Approve requests
+- Remove members
+- Manage posts
+- Manage reports
+- Pin posts
+- Manage group settings according to granted permissions
+
+MODERATOR PERMISSIONS:
+
+- Review posts
+- Remove violating content
+- Review reports
+- Warn users
+- Moderate discussions
+- Restrict members according to permissions
+
+MEMBER PERMISSIONS:
+
+- Post
+- Comment
+- React
+- Share
+- Report
+- Invite others when permitted
+
+GROUP SETTINGS:
+
+- Public/private
+- Member approval
+- Post approval
+- Comment approval
+- Image permissions
+- Video permissions
+- File permissions
+- Link permissions
+- Spam protection
+- Slow mode
+- Restricted posting
+- Keyword filters
+- Member warnings
+- Temporary mute
+- Temporary ban
+- Permanent ban
+- Ban list
+- Admin activity log
+- Group analytics
+- Welcome messages
+- Custom rules
+- Group notifications
+- Group appearance
+
+GROUP REPORT CENTER:
+
+- Reported posts
+- Reported comments
+- Reported members
+- Report reason
+- Report status
+- Review tools
+- Action history
+- Dismiss report
+- Delete content
+- Warn member
+- Mute member
+- Ban member
+
+GROUP ANALYTICS:
+
+- Total members
+- Growth
+- New members
+- Posts
+- Comments
+- Engagement
+- Most active members
+- Most popular posts
+- Pending join requests
+- Report statistics
+
+ADMIN ACTIVITY LOG:
+
+Record administrative actions with:
+
+- Admin
+- Action
+- Affected user/content
+- Date/time
+- Details
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 7 — TIGER DISCOVER 🔎
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a powerful discovery engine.
+
+Sections:
+
+- Trending posts
+- Trending videos
+- Trending hashtags
+- Trending topics
+- Popular communities
+- Recommended people
+- Featured creators
+- Popular products
+- Educational content
+- Gaming
+- Technology
+- AI
+- Science
+- Sports
+- News
+- Entertainment
+
+Create a universal search system.
+
+Search:
+
+- Users
+- Posts
+- Communities
+- Videos
+- Hashtags
+- Products
+- Events
+- Creators
+
+Add filters, sorting, and search history.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 8 — TIGER SMART FEED 🧠
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Implement a recommendation system.
+
+Recommendations may consider:
+
+- Followed users
+- Interests
+- Communities
+- Saved posts
+- Engagement preferences
+- Topics
+- User-selected categories
+
+USER CONTROLS:
+
+- Show more like this
+- Show less like this
+- Hide this post
+- Hide this topic
+- Mute hashtag
+- Unfollow
+- Why am I seeing this?
+
+Respect user privacy.
+
+Avoid harmful engagement manipulation.
+
+Do not make the algorithm impossible for users to control.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 9 — TIGER ID 🪪
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create customizable user profiles.
+
+Profile:
+
+- Profile image
+- Cover image
+- Display name
+- Username
+- Bio
+- Website
+- Interests
+- Followers
+- Following
+- Posts
+- Videos
+- Communities
+- Achievements
+- XP
+- Level
+- Badges
+- Featured content
+- Pinned posts
+- Profile widgets
+
+Allow users to control:
+
+- Public profile visibility
+- Who can follow
+- Who can message
+- Who can comment
+- Who can mention
+- Who can view their content
+- Blocked users
+- Muted users
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 10 — TIGER XP & ACHIEVEMENTS 🏆
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a progression system.
+
+XP can be earned through legitimate activities such as:
+
+- Completing challenges
+- Meaningful participation
+- Learning activities
+- Community contributions
+- Original content creation
+- Helpful answers
+- Events
+
+Create levels:
+
+- Rookie
+- Explorer
+- Active
+- Pro
+- Elite
+- Tiger Star
+- Legend
+
+Create:
+
+- XP progress bar
+- Level-up notifications
+- Achievement badges
+- Daily goals
+- Weekly goals
+- Leaderboards
+- Monthly rankings
+- Achievement showcase
+
+Prevent spam, bot activity, and reward abuse.
+
+Do not reward repetitive meaningless actions excessively.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 11 — TIGER STREAK 🔥
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Implement activity streaks.
+
+Features:
+
+- Daily activity
+- Consecutive days
+- Activity calendar
+- Milestone rewards
+- 7-day milestone
+- 30-day milestone
+- 100-day milestone
+- Streak badges
+- Streak history
+
+Include reasonable anti-abuse controls.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 12 — TIGER ARENA 🎮
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a challenge center.
+
+Challenge types:
+
+- Trivia
+- Science
+- Education
+- Creativity
+- Drawing
+- Photography
+- Gaming
+- Sports
+- Writing
+- Community challenges
+
+Features:
+
+- Daily challenges
+- Weekly challenges
+- Create challenges
+- Join challenges
+- Submission system
+- Voting where appropriate
+- Results
+- Leaderboards
+- Rewards
+- XP
+- Badges
+- Challenge history
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 13 — TIGER GAMES 🕹️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create an entertainment and mini-games section.
+
+Include a modular game library capable of supporting:
+
+- Trivia
+- Memory games
+- Puzzle games
+- Word games
+- Reaction games
+- Educational games
+- Multiplayer games when supported
+
+Features:
+
+- Personal records
+- Leaderboards
+- Achievements
+- Daily games
+- Challenge friends
+- Game history
+
+Do not use copyrighted game assets without permission.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 14 — TIGER LEARNING 📚
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a learning ecosystem.
+
+Categories:
+
+- Mathematics
+- Science
+- Technology
+- Languages
+- History
+- Geography
+- Islamic education
+- General knowledge
+- Programming
+- Space
+
+Features:
+
+- Educational posts
+- Learning communities
+- Lessons
+- Quizzes
+- Study groups
+- Study challenges
+- Notes
+- Bookmarks
+- Learning progress
+- Question-and-answer posts
+- File sharing where allowed
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 15 — TIGER NEWSROOM 📰
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a news center.
+
+Categories:
+
+- Technology
+- Artificial Intelligence
+- Science
+- Space
+- Sports
+- Gaming
+- Education
+- World news
+
+Features:
+
+- News feed
+- Category filters
+- News source
+- Publication date
+- Original article link
+- Save news
+- Share
+- Discuss
+- Related topics
+
+Use real news providers or legitimate news feeds.
+
+Do not fabricate news, sources, quotes, or publication dates.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 16 — TIGER AI 🤖
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a dedicated AI assistant.
+
+Capabilities:
+
+- Chat
+- Answer questions
+- Explain concepts
+- Summarize
+- Write posts
+- Rewrite content
+- Brainstorm
+- Generate titles
+- Generate hashtags
+- Help with homework
+- Help with coding
+- Assist creators
+- Help with planning
+- Generate image prompts
+- Help organize ideas
+
+Features:
+
+- Conversation history
+- New chat
+- Rename chat
+- Delete chat
+- Copy responses
+- Save useful responses
+- Clear history
+- Responsive interface
+
+Connect to a real AI API.
+
+Never expose API keys in client-side code.
+
+Clearly handle API failures and usage limits.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 17 — TIGER CREATOR STUDIO 🎨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Build a content creator workspace.
+
+Tools:
+
+- Post editor
+- Image layout editor
+- Story creator
+- Cover creator
+- Caption helper
+- Hashtag suggestions
+- Draft manager
+- Publishing tools
+- Scheduled posts
+- Content calendar
+- Analytics
+
+Analytics:
+
+- Views
+- Reach
+- Likes
+- Comments
+- Shares
+- Saves
+- Follower growth
+- Content performance
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 18 — TIGER STORE 🛍️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Upgrade the existing marketplace.
+
+Features:
+
+- Products
+- Product images
+- Multiple images
+- Product details
+- Categories
+- Search
+- Filters
+- Sorting
+- Favorites
+- Cart
+- Orders
+- Order history
+- Seller profiles
+- Store profiles
+- Reviews
+- Ratings
+- Discounts
+- Featured products
+- Product sharing
+- Follow stores
+
+Order statuses:
+
+- Pending
+- Confirmed
+- Processing
+- Shipped
+- Delivered
+- Cancelled
+
+Seller dashboard:
+
+- Add products
+- Edit products
+- Manage inventory
+- Manage orders
+- Manage store
+- View analytics
+
+Implement actual order persistence.
+
+Never claim payment processing works unless a payment provider is connected and configured.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 19 — TIGER COINS 🪙
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a virtual points system.
+
+Users may earn points through:
+
+- Achievements
+- Challenges
+- Events
+- Educational activities
+- Community contributions
+
+Points may unlock cosmetic items:
+
+- Profile frames
+- Decorations
+- Themes
+- Badges
+- Avatar accessories
+
+Features:
+
+- Points balance
+- Points history
+- Reward catalog
+- Earned rewards
+- Redeem rewards
+
+No gambling.
+
+No cash conversion.
+
+No misleading monetary value.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 20 — TIGER VAULT 🔐
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a private personal content library.
+
+Save:
+
+- Posts
+- Videos
+- Products
+- Images
+- Files
+- Links
+- News
+
+Features:
+
+- Custom folders
+- Rename folders
+- Delete folders
+- Search saved items
+- Sort
+- Move items
+- Private by default
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 21 — TIGER LIVE 🎙️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create live audio rooms.
+
+Features:
+
+- Create room
+- Room title
+- Description
+- Topic
+- Public/private
+- Host
+- Co-host
+- Moderators
+- Speakers
+- Listeners
+- Request to speak
+- Mute
+- Remove participant
+- End room
+- Room reporting
+
+Use a real streaming provider for live audio.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 22 — TIGER EVENTS 📅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create an event system.
+
+Features:
+
+- Event creation
+- Event cover
+- Title
+- Description
+- Date
+- Time
+- Time zone
+- Online or physical
+- Registration
+- Attendance list
+- Invitations
+- Reminders
+- Event sharing
+- Event discussions
+- Event management
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 23 — TIGER COLLAB 🤝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a collaboration discovery system.
+
+Allow users to:
+
+- Display skills
+- Display interests
+- Create collaboration requests
+- Search for partners
+- Find developers
+- Find designers
+- Find creators
+- Find study partners
+- Find project teams
+
+Create:
+
+- Project listings
+- Collaboration requests
+- Application system
+- Project status
+- Team members
+- Project discussion space
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 24 — TIGER GLOBE 🌍
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a privacy-conscious global discovery page.
+
+Show:
+
+- Popular public communities
+- Public events
+- Broad regional trends
+- Popular topics
+- Community activity
+
+Never show private information or exact user locations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 25 — TIGER WIDGETS 🧩
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Allow optional profile widgets.
+
+Widgets:
+
+- Clock
+- Calendar
+- Quote of the day
+- Goals
+- Achievements
+- XP
+- Interests
+- Favorite games
+- Favorite topics
+- Activity
+
+Users can choose which widgets to show.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 26 — TIGER THEMES ✨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a theme customization center.
+
+Themes:
+
+- Tiger Dark
+- Tiger Light
+- Orange
+- Blue
+- Purple
+- Green
+- Custom accent color where supported
+
+Customize:
+
+- Interface color
+- Profile background
+- Card style
+- Layout
+- Font size
+- Animation preferences
+
+Persist preferences.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 27 — TIGER GUARDIAN 🛡️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a safety and moderation system.
+
+Features:
+
+- Report posts
+- Report users
+- Report comments
+- Report groups
+- Report videos
+- Moderation queue
+- Spam detection
+- Suspicious link detection
+- Warning system
+- Temporary restrictions
+- Muting
+- Banning
+- Appeal workflow where appropriate
+- Moderation history
+
+Provide tools for authorized moderators.
+
+Use server-side authorization.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 28 — TIGER VERIFIED ✔️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create an account verification framework.
+
+Verification types:
+
+- Official platform account
+- Creator
+- Organization
+- Community
+- Store
+
+Verification must be awarded through an actual review process.
+
+Do not grant verification automatically based on arbitrary user activity.
+
+Create:
+
+- Verification request
+- Review process
+- Approval
+- Rejection
+- Verification status
+- Revocation
+- Verification history
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 29 — TIGER SUPER ADMIN 👑
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a separate, secure administration dashboard for platform owners and authorized staff.
+
+DASHBOARD:
+
+- Total users
+- New registrations
+- Active users
+- Posts
+- Videos
+- Groups
+- Reports
+- Events
+- Marketplace activity
+- System health
+
+USER MANAGEMENT:
+
+- Search users
+- View profiles
+- Review account status
+- Suspend accounts
+- Ban accounts
+- Restore accounts
+- Review appeals
+- Manage verification requests
+
+CONTENT MANAGEMENT:
+
+- Posts
+- Videos
+- Comments
+- Hashtags
+- Featured content
+- Reports
+
+COMMUNITY MANAGEMENT:
+
+- Groups
+- Group reports
+- Group status
+- Moderation
+- Administrative actions
+
+PLATFORM SETTINGS:
+
+- Feature flags
+- Enable/disable modules
+- Categories
+- Announcements
+- Maintenance mode
+- Platform appearance
+- Limits
+- Upload policies
+
+ADMIN SECURITY:
+
+- Role-based permissions
+- Server-side verification
+- Audit logs
+- Secure sessions
+- Confirmation for sensitive actions
+- Restricted access
+
+Never expose Super Admin routes or data to ordinary users.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 30 — TIGER NOTIFICATIONS 🔔
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a complete notification center.
+
+Types:
+
+- Likes
+- Comments
+- Replies
+- Followers
+- Messages
+- Group invites
+- Join requests
+- Events
+- Challenges
+- Achievements
+- Store updates
+- Platform announcements
+
+Features:
+
+- Mark read
+- Mark all read
+- Delete
+- Filter
+- Notification preferences
+- Quiet mode
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 31 — TIGER HELP CENTER 🆘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a help center.
+
+Sections:
+
+- Frequently asked questions
+- Account support
+- Login problems
+- Privacy
+- Communities
+- Marketplace
+- Safety
+- Reporting
+- Technical problems
+
+Features:
+
+- Submit support ticket
+- Ticket status
+- Reply to support
+- Help articles
+- Contact support
+- Suggestions
+- Feedback
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 32 — PRIVACY & ACCOUNT SECURITY 🔒
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Implement:
+
+- Privacy dashboard
+- Login sessions
+- Device list where supported
+- Session revocation
+- Account activity
+- Password change
+- Account recovery
+- Profile visibility
+- Block list
+- Mute list
+- Data export
+- Account deletion
+- Confirmation workflows
+
+Use secure authentication.
+
+Never store plain-text passwords.
+
+Never expose private user data.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 33 — TIGER SMART SEARCH 🔍
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a unified search engine.
+
+Search across:
+
+- Users
+- Posts
+- Communities
+- Videos
+- Products
+- Events
+- Hashtags
+- News
+
+Features:
+
+- Search suggestions
+- Recent searches
+- Filters
+- Category selection
+- Ranking
+- Search result cards
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 34 — TIGER PROFILE CUSTOMIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Allow users to personalize their profile.
+
+- Profile themes
+- Cover designs
+- Frames
+- Widgets
+- Featured posts
+- Profile badges
+- Custom introduction
+- Interests
+- Layout options
+
+Keep profiles fast and accessible.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 35 — MOBILE EXPERIENCE 📱
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Optimize the entire platform for mobile devices.
+
+Requirements:
+
+- Mobile-first layouts
+- Bottom navigation
+- Touch-friendly controls
+- Responsive cards
+- Mobile messaging
+- Mobile video
+- Fast loading
+- Safe-area support
+- No horizontal overflow
+- Accessible font sizes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 36 — PLATFORM PERFORMANCE ⚡
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Improve:
+
+- Loading speed
+- Database queries
+- Image optimization
+- Video delivery
+- Pagination
+- Caching
+- Lazy loading
+- Code splitting
+- Error handling
+- Network resilience
+
+Avoid loading unnecessary content.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 37 — DESIGN SYSTEM 🎨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a unified Tiger design system.
+
+BRAND:
+
+Tiger Orange
+Deep charcoal
+Black
+White
+Optional complementary accents
+
+STYLE:
+
+Premium
+Modern
+Dynamic
+Clean
+Friendly
+Technology-oriented
+
+COMPONENTS:
+
+- Buttons
+- Cards
+- Navigation
+- Modal dialogs
+- Dropdowns
+- Tabs
+- Forms
+- Notifications
+- Badges
+- Avatars
+- Loading states
+- Empty states
+- Error states
+
+Animations must be subtle and performant.
+
+Do not overuse gradients, glows, or effects.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 38 — DATABASE AND ARCHITECTURE 🗄️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Inspect the existing database and adapt it carefully.
+
+Create or update schemas for:
+
+- Users
+- Profiles
+- Posts
+- Comments
+- Reactions
+- Followers
+- Stories
+- Videos
+- Groups
+- Group members
+- Group permissions
+- Group requests
+- Group reports
+- Group moderation logs
+- Conversations
+- Messages
+- Notifications
+- Events
+- Challenges
+- Achievements
+- XP
+- Virtual rewards
+- Products
+- Stores
+- Orders
+- Reviews
+- Saved items
+- Folders
+- Collaborations
+- Verification
+- Support tickets
+- Moderation reports
+- Admin logs
+
+Use proper relationships, indexes, constraints, validation, and access controls.
+
+Do not create duplicate schemas if equivalent structures already exist.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 39 — SECURITY REQUIREMENTS 🛡️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Implement:
+
+- Server-side authorization
+- Role-based access control
+- Input validation
+- File validation
+- Secure file uploads
+- Rate limiting
+- Spam protection
+- Session security
+- Protected routes
+- Database security
+- API security
+- XSS protection
+- Injection protection
+- CSRF protection where applicable
+- Secure secrets management
+- Admin action logging
+
+Never rely only on frontend restrictions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 40 — REAL FUNCTIONALITY POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Every visible button must perform a real action.
+
+Every form must validate inputs.
+
+Every important setting must persist.
+
+Every administrative action must enforce permissions.
+
+Every feature must display loading, success, and failure states.
+
+Never use fake functionality.
+
+Never claim that an API is connected when it is not.
+
+If a feature requires an external service:
+
+- Build its integration structure.
+- Identify the required provider.
+- Identify missing credentials.
+- Document configuration steps.
+- Gracefully handle unavailable services.
+
+Do not replace functional existing features with mockups.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 41 — IMPLEMENTATION PRIORITY 🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Because this is a very large project, implement in stages without losing the overall vision.
+
+PRIORITY 1:
+- Preserve existing project.
+- Fix existing bugs.
+- Unified design.
+- Tiger Universe.
+- Navigation.
+- User profiles.
+- Notifications.
+
+PRIORITY 2:
+- Communities.
+- Complete group admin settings.
+- Group permissions.
+- Moderation.
+- Reports.
+
+PRIORITY 3:
+- Social feed.
+- Stories.
+- Reels.
+- Discover.
+- Search.
+
+PRIORITY 4:
+- Messenger.
+- Creator Studio.
+- Vault.
+
+PRIORITY 5:
+- XP.
+- Achievements.
+- Streaks.
+- Arena.
+- Games.
+
+PRIORITY 6:
+- Learning.
+- Newsroom.
+- Events.
+- Collaboration.
+
+PRIORITY 7:
+- Tiger AI.
+- Tiger Live.
+- Tiger Coins.
+- Tiger Globe.
+- Advanced customization.
+
+PRIORITY 8:
+- Super Admin.
+- Analytics.
+- Security improvements.
+- Feature flags.
+- Platform management.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 42 — TESTING 🧪
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Test the platform after each implementation phase.
+
+Test:
+
+- Registration
+- Login
+- Logout
+- Profile
+- Follow
+- Posts
+- Comments
+- Reactions
+- Stories
+- Videos
+- Search
+- Groups
+- Group creation
+- Group join
+- Group admin
+- Moderator permissions
+- Member removal
+- Banning
+- Reports
+- Messenger
+- Notifications
+- Store
+- Cart
+- Orders
+- Events
+- Challenges
+- Admin panel
+- Mobile layout
+- Data persistence
+- Security
+- Existing features
+
+Fix errors before moving forward.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 43 — FINAL DELIVERY REPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+When implementation is complete, provide a report containing:
+
+1. Features successfully implemented.
+2. Features that were already present and preserved.
+3. New pages.
+4. New database structures.
+5. API integrations.
+6. External services required.
+7. Features that are fully functional.
+8. Features that need credentials.
+9. Features that are incomplete.
+10. Errors found and fixed.
+11. Security improvements.
+12. Testing results.
+
+Do not mark incomplete features as completed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ULTIMATE VISION 🌌🐅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tiger Connect must become a unique social universe where people can:
+
+CONNECT
+SHARE
+CREATE
+DISCOVER
+LEARN
+PLAY
+COMPETE
+SELL
+COLLABORATE
+CHAT
+EXPLORE
+AND GROW
+
+It should not feel like a copy of an existing social network.
+
+It must have its own identity, its own ecosystem, its own culture, its own visual language, and its own user experience.
+
+Build Tiger Connect as a premium, scalable, secure, intelligent, exciting, and genuinely functional social platform.
+
+START BY INSPECTING THE EXISTING PROJECT.
+
+THEN IMPLEMENT THE UPGRADES.
+
+DO NOT STOP AT A PLAN.
+
+DO NOT GENERATE ONLY A UI MOCKUP.
+
+MAKE THE ACTUAL PROJECT BETTER.

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#09090B"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="28dp">
+
+    <TextView
+        android:id="@+id/tvCallBrand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="TIGER CONNECT"
+        android:textColor="#F97316"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.12" />
+
+    <TextView
+        android:id="@+id/tvCallType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="مكالمة واردة..."
+        android:textColor="#A1A1AA"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:id="@+id/ivCallerAvatar"
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:background="#18181B"
+        android:contentDescription="Caller Photo"
+        android:padding="4dp"
+        android:scaleType="centerCrop"
+        android:src="@android:drawable/sym_def_app_icon" />
+
+    <TextView
+        android:id="@+id/tvCallerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:gravity="center"
+        android:text="TIGER User"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnDeclineCall"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginEnd="12dp"
+            android:layout_weight="1"
+            android:backgroundTint="#DC2626"
+            android:text="رفض / Decline"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnAcceptCall"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:backgroundTint="#10B981"
+            android:text="رد / Answer"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

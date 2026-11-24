@@ -1,0 +1,83 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', 'Cairo', system-ui, -apple-system, sans-serif;
+    --font-display: 'Outfit', 'Cairo', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+    --tiger-accent: #f97316;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+  }
+
+  html.tiger-reduced-motion *,
+  html.tiger-reduced-motion *::before,
+  html.tiger-reduced-motion *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Custom subtle scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(113, 113, 122, 0.35);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(249, 115, 22, 0.7);
+}
+
+/* Isolated Phone / Tablet Preview Frame Lock (does not affect desktop/full-site zoom) */
+.tiger-device-frame {
+  flex: 0 0 auto;
+  overflow: hidden;
+  overscroll-behavior: none;
+  touch-action: pan-y;
+  -ms-touch-action: pan-y;
+}
+
+.tiger-device-frame-mobile {
+  width: min(390px, calc((100dvh - 2rem) * 390 / 844), calc(100vw - 1.5rem));
+  aspect-ratio: 390 / 844;
+}
+
+.tiger-device-frame-tablet {
+  width: min(768px, calc((100dvh - 2rem) * 768 / 920), calc(100vw - 1.5rem));
+  aspect-ratio: 768 / 920;
+}
+
+.tiger-device-viewport {
+  flex: 1 1 0%;
+  min-height: 0;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
+}
+

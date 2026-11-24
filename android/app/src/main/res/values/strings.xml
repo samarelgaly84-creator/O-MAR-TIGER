@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TIGER CONNECT</string>
+    <string name="incoming_call_title">Incoming Call</string>
+    <string name="accept_call">Answer</string>
+    <string name="decline_call">Decline</string>
+</resources>

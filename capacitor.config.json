@@ -1,0 +1,15 @@
+{
+  "appId": "com.tiger.connect",
+  "appName": "TIGER CONNECT",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}
